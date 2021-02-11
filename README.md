@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi, I'm Andy
+
+You may find me on:
+- 🕹 itch: [remruts.itch.io](https://remruts.itch.io)
+- 🐦 twitter: [@remruts](https://twitter.com/remruts)
+- 📷 instagram: [@remruts.dev](https://instagram.com/remruts.dev)
 
 <!--
 **Remruts/remruts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
